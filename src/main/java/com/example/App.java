@@ -1,6 +1,9 @@
 package com.example;
 
-import com.example.grid.*;
+import com.example.grid.EnergyConsumer;
+import com.example.grid.EnergyProducer;
+import com.example.grid.GridController;
+import com.example.grid.GridVisualizer;
 
 public class App {
     public static void main(String[] args) {
